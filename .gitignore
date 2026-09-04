@@ -40,3 +40,9 @@ sysinfo.txt
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# Asset Store assets - keep locally, don't upload to GitHub
+Assets/ToonyTinyPeople/
+Assets/HaniJahanDesign/
+Assets/ToonyTinyPeople.meta
+Assets/HaniJahanDesign.meta
